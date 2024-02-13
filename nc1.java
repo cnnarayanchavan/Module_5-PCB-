@@ -8,7 +8,7 @@ public class nc1 {
             sum++;
         }
         System.out.println("Total elements in array:" +sum);
-        //OR
+        //OR this is how i can measure the length of an array
         System.out.println("Length of an array:" +array1.length);
     }
 }
