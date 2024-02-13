@@ -8,6 +8,6 @@ Modules includes :
 2. string
 3. datatypes
 4. functions
-5. 5. 2D Everything
+5. 2D Everything
 6. linklist
 
