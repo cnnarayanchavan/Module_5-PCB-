@@ -3,6 +3,7 @@ public class nc1 {
         int sum = 0;
         System.out.println("Hello Narayana");
         int[] array1 = {12,13,14,15,16};
+        System.out.println("Before Sort");   
         for (int i = 0; i < array1.length; i++) {
             System.out.println(array1);    
         }
