@@ -6,3 +6,4 @@ and the JDBC.
 Modules includes :
 1. arrays
 2. string
+3. datatypes
