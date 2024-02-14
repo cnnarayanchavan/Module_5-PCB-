@@ -10,4 +10,5 @@ Modules includes :
 4. functions
 5. 2D Everything
 6. linklist
+7. next array method
 
