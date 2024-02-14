@@ -9,8 +9,8 @@ public class nc3{
   }
   public static void sortNumArray(int[] array){
     int temp = 0;
-    for(i=0; i<=array.length-1;i++){
-      for(j=0; j<array.length-i; j++){
+    for(int i=0; i<=array.length-1;i++){
+      for(int j=0; j<array.length-i; j++){
         if(array[j]>array[j+1]){
           temp = array[j];
           array[j]=array[j+1];
