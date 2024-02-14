@@ -18,7 +18,7 @@ public class nc3{
         }
       }
     }
-    Ststem.out.println("After Sorting")
+    System.out.println("After Sorting");
     System.out.println(java.util.Arrays.toString(array));
   }
 }
