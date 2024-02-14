@@ -4,7 +4,7 @@ public class nc2{
         for (int i = 0; i < Array1.length; i++) {
             for (int j = 0; j < Array1.length-1-i; j++) {
                 if (Array1[j]>Array1[j+1]) {
-                    int temp = Array1[i];
+                    int temp = Array1[j];
                     Array1[j] = Array1[j+1];
                     Array1[j+1] = temp;
                 }
