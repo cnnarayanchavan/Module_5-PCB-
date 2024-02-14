@@ -14,7 +14,7 @@ public class nc2{
 
     }
     public static void main(String[] args) {
-        int[] arr ={4,6,7,8,3,9};
+        int[] arr ={5,4,3,2,1};
         sortingArray(arr);
     }
 }
