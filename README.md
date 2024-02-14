@@ -11,4 +11,5 @@ Modules includes :
 5. 2D Everything
 6. linklist
 7. next array method
+8. allowed 
 
