@@ -18,6 +18,6 @@ public class nc3{
         }
       }
     }
-    System.out.println(java.util.Arrays.toString(array))
+    System.out.println(java.util.Arrays.toString(array));
   }
 }
