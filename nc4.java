@@ -13,19 +13,14 @@ public class nc4{
        if(arr[maxElement]>arr[j]){
          maxElement=arr[j];
        } 
+      }
         temp = arr[i];
         arr[i]=arr[maxElement];
         arr[maxElement]=temp;
-      }
+      
        for(i=0; i<arr.length; i++){
       System.out.println(arr[i] + " ");
     }
     }
   }
-
-
-
-  }
-  public static void sortUsingSelection(int[] arr){
-    
 }
