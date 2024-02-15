@@ -6,5 +6,6 @@ and the JDBC.
 Updating Readme by last one
 #Content
 1. Searching
-   - Linear Search 
+   - Linear Search
+   - Binary Seach
 
