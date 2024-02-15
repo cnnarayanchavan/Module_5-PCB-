@@ -8,4 +8,8 @@ Updating Readme by last one
 1. Searching
    - Linear Search
    - Binary Seach
+2.Sorting
+   - Bubble Sort
+   
+
 
