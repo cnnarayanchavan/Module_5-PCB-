@@ -2,7 +2,7 @@ public class nc4{
   public static void main(String[] args){
     int[] array = {34,56,67,23,41,14};
     System.out.println("Before Sorting");
-    System.out.println(java.util.Arraya.toString(array));
+    System.out.println(java.util.Arrays.toString(array));
     System.out.println("After Sorting");
     sortUsingSelection(array);
     
@@ -20,7 +20,7 @@ public class nc4{
         arr[maxElement]=arr[j];
         arr[j]=temp;
       }
-      System.out.println(java.util.Arrays.toString(arr))
+      System.out.println(java.util.Arrays.toString(arr));
     }
   }
 }
