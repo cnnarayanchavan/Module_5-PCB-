@@ -9,7 +9,7 @@ Updating Readme by last one
    - Linear Search
    - Binary Seach
    
-2.Sorting
+2. Sorting
    - Bubble Sort
    - Selection Sort
    
