@@ -10,6 +10,7 @@ Updating Readme by last one
    - Binary Seach
 2.Sorting
    - Bubble Sort
+   - Selection Sort
    
 
 
