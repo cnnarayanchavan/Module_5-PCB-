@@ -15,6 +15,7 @@ Updating Readme by last one
    - Insertion sort
    - Heap Sort
    - quick Sort
-   
+
+3. Q & A {WAP}
 
 
