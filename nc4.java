@@ -9,10 +9,10 @@ public class nc4{
 
   }
   public static void sortUsingSelection(int[] arr){
-    for(i=0; i<arr.length; i++){
+    for(int i=0; i<arr.length; i++){
       let maxElement=i;
       int temp =0;
-      for(j=i+1; i<arr.length; j++){
+      for(int j=i+1; i<arr.length; j++){
        if(arr[maxElement]>arr[j]){
          maxElement=arr[j]
        } 
