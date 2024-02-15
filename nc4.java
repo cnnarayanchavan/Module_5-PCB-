@@ -5,12 +5,7 @@ public class nc4{
     // System.out.println("Before Sorting");
     // System.out.println(java.util.Arrays.toString(array));
     // System.out.println("After Sorting");
-     sortUsingSelection(array);
-
-
-
-  }
-  public static void sortUsingSelection(int[] arr){
+    // sortUsingSelection(array);
     for(int i=0; i<arr.length; i++){
       int maxElement=i;
       int temp =0;
@@ -27,4 +22,10 @@ public class nc4{
     }
     }
   }
+
+
+
+  }
+  public static void sortUsingSelection(int[] arr){
+    
 }
