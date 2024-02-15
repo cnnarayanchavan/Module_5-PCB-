@@ -1,11 +1,13 @@
+//Selection sort nc_0.6_take_9
 public class nc4{
   public static void main(String[] args){
-    int[] array = {34,56,67,23,41,14};
-    System.out.println("Before Sorting");
-    System.out.println(java.util.Arrays.toString(array));
-    System.out.println("After Sorting");
-    sortUsingSelection(array);
-    
+    int[] array = {32,26,40,24,8,80};
+    // System.out.println("Before Sorting");
+    // System.out.println(java.util.Arrays.toString(array));
+    // System.out.println("After Sorting");
+     sortUsingSelection(array);
+
+
 
   }
   public static void sortUsingSelection(int[] arr){
@@ -20,7 +22,9 @@ public class nc4{
         arr[i]=arr[maxElement];
         arr[maxElement]=temp;
       }
-      System.out.println(java.util.Arrays.toString(arr));
+       for(i=0; i<arr.length; i++){
+      System.out.println(array[i] + " ")
+    }
     }
   }
 }
