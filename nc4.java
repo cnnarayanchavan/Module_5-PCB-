@@ -1,7 +1,7 @@
 //Selection sort nc_0.6_take_9
 public class nc4{
   public static void main(String[] args){
-    int[] array = {32,26,40,24,8,80};
+    int[] arr = {32,26,40,24,8,80};
     // System.out.println("Before Sorting");
     // System.out.println(java.util.Arrays.toString(array));
     // System.out.println("After Sorting");
