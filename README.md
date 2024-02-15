@@ -12,6 +12,9 @@ Updating Readme by last one
 2. Sorting
    - Bubble Sort
    - Selection Sort
+   - Insertion sort
+   - Heap Sort
+   - quick Sort
    
 
 
