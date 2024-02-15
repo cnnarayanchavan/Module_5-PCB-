@@ -1,6 +1,6 @@
 public class nc4{
   public static void main(String[] args) {
-    int[] arr1={12,43,23,56,34};
+    int[] arr1={12,36,24,60,48};
     int temp =0;
     int maxElement =0;
     for (int i = 0; i < arr1.length; i++) 
