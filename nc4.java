@@ -1,26 +1,20 @@
-//Selection sort nc_0.6_take_9
 public class nc4{
-  public static void main(String[] args){
-    int[] arr = {32,26,40,24,8,80};
-    // System.out.println("Before Sorting");
-    // System.out.println(java.util.Arrays.toString(array));
-    // System.out.println("After Sorting");
-    // sortUsingSelection(array);
-    for(int i=0; i<arr.length; i++){
-      int maxElement=i;
-      int temp =0;
-      for(int j=i+1; i<arr.length; j++){
-       if(arr[maxElement]>arr[j]){
-         maxElement=arr[j];
-       } 
+  public static void main(String[] args) {
+    int[] arr1={12,43,23,56,34};
+    int temp =0;
+    for (int i = 0; i < arr1.length; i++) {
+      int maxElement =i;
+      for (int j = i+1; j < arr1.length; j++) {
+        if (arr1[maxElement]>arr1[j]) {
+          maxElement = arr1[j];
+        }
+        temp = arr1[i];
+        arr1[i]=arr1[maxElement];
+        arr1[maxElement]=temp;
       }
-        temp = arr[i];
-        arr[i]=arr[maxElement];
-        arr[maxElement]=temp;
-      
-       for(i=0; i<arr.length; i++){
-      System.out.println(arr[i] + " ");
-    }
+      for(i=0;i<arr1.length;i++){
+        System.out.print(arr1[i] + " ");
+      }
     }
   }
 }
