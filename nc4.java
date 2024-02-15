@@ -12,7 +12,7 @@ public class nc4{
     for(int i=0; i<arr.length; i++){
       int maxElement=i;
       int temp =0;
-      for(int j=i+1; i<arr.length; j++){
+      for(int j=i+1; i<arr.length-1; j++){
        if(arr[maxElement]>arr[j]){
          maxElement=arr[j];
        } 
