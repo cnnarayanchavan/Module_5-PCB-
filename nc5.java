@@ -1,5 +1,5 @@
 public class nc5{
-  public static void mina(String[]args){
+  public static void main(String[]args){
     int[] arr = {5,4,1,2,9};
     sortUsingInsertion(arr);
   }
