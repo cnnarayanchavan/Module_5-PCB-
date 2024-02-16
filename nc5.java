@@ -18,5 +18,5 @@ public class nc5{
       System.out.print(arr[i] + " ");
     }
     System.out.println();
-  }
-}
+  }  
+} 
