@@ -1,3 +1,4 @@
+// Insertion sort.
 public class nc5 {
 
   public static void main(String[] args) {
