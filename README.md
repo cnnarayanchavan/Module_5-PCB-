@@ -14,9 +14,9 @@ Updating Readme by last one
 2. Sorting
    - Bubble Sort
    - Selection Sort
-   - Insertion sort
-   - Heap Sort
-   - quick Sort
+   - Insertion Sort
+   - Merge Sort
+   - Quick Sort 
 
 3. Q & A {WAP}
    - 
