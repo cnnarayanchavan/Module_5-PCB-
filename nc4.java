@@ -1,3 +1,4 @@
+// Selection sort
 public class nc4{
   public static void main(String[] args) {
     int[] arr1={12,36,24,60,48};
