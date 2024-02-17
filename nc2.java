@@ -1,3 +1,4 @@
+// Bubble sort.
 public class nc2{
     static void sortingArray(int[] Array1){
         //System.out.println(java.util.Arrays.toString(arr));
