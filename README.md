@@ -22,6 +22,7 @@ Updating Readme by last one
    - for searching technique
    - for sorting technique
    - 1st function from KK
-   - updating readme for mainting strick of commits 
+   - updating readme for mainting strick of commits
+   - sorting with kk (using first and last elements)
    
 
