@@ -24,6 +24,5 @@ Updating Readme by last one
    - 1st function from KK
    - updating readme for mainting strick of commits
    - sorting with kk (using first and last elements)
-   - updated redme again
    
 
