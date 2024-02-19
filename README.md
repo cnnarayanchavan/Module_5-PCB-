@@ -21,5 +21,6 @@ Updating Readme by last one
 3. Q & A {WAP}
    - for searching technique
    - for sorting technique
+   - 1st function from KK
    
 
