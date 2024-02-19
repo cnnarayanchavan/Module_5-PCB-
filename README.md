@@ -19,5 +19,7 @@ Updating Readme by last one
    - Quick Sort 
 
 3. Q & A {WAP}
-   - 
+   - for searching technique
+   - for sorting technique
+   
 
