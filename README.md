@@ -19,10 +19,8 @@ Updating Readme by last one
    - Quick Sort 
 
 3. Q & A {WAP}
-   - for searching technique
-   - for sorting technique
-   - 1st function from KK
-   - updating readme for mainting strick of commits
-   - sorting with kk (using first and last elements)
+   - today we learnt about the functions in java and how it works internally
+   - second the shadowing in functions, variable length in java.
+   
    
 
