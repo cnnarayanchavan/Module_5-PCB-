@@ -29,6 +29,6 @@ public class nc6{
      else{
        System.out.println("false");
      }
-    return sum ;
+    return 1;
   }
 }
