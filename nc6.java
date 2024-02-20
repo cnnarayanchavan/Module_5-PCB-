@@ -18,7 +18,7 @@ public class nc6{
     n = n/10;
     sum = sum + (ld*ld*ld);  
     }  
-     if(Num==original){
+     if(n==original){
        System.out.println("true");
      }
      else{
