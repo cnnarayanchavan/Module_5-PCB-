@@ -1,19 +1,10 @@
-//Functions in js
-import java.util.*;
-public class nc6 {
-  public static void main(String[] args) {
-    Scanner sc = new Scanner(System.in);
-    int num = sc.nextInt();
+//functions in js
+public class nc6{
+  public static void main(String[]args){
+    System.out.println(printSum(12,12));
   }
-  static int printArm(Number){
-    while (Number<0) {
-      ld = Number%10;
-      Number = Number/10;
-      
-    }
+
+  static int printSum(int num1, int num2){
+    return num1 + num2 ;
   }
 }
-
-
-
-
