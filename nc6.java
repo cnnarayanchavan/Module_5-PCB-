@@ -18,12 +18,12 @@ public class nc6{
     n = n/10;
     sum = sum + (ld*ld*ld);  
     }  
-    // if(Num==original){
-    //   System.out.println("true");
-    // }
-    // else{
-    //   System.out.println("false");
-    // }
+     if(Num==original){
+       System.out.println("true");
+     }
+     else{
+       System.out.println("false");
+     }
     return sum ;
   }
 }
