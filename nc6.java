@@ -5,10 +5,12 @@ public class nc6{
     //function for simple adding two numbers
     Scanner sc = new Scanner(System.in);
     int sum = 0;
-    int num = sc.nextnt();
+    int num = sc.nextInt();
     int original = num;
-    int ans = printSum(12,12);
-      System.out.println(ans);
+    //int ans = printSum(12,12);
+      //System.out.println(ans);
+    int ans = printArmstrong(12,12);
+    System.out.println(ans);
     
   }
   // static int printSum(int num1, int num2){
@@ -23,9 +25,9 @@ public class nc6{
       sum = sum + (LD * LD * LD);
     }
     if(sum == Number){
-      System.out.println("True")
+      System.out.println("True");
     }
-    else "false"
+    else "false";
   }
   return sum;
 }
