@@ -8,6 +8,9 @@ public class nc6{
     int number = in. nextInt();
     int ans = printArm(number);
     System.out.println(ans);
+    for(int i = 100; i<1000;i++){
+      System.out.println(printArm(i));
+    }
   }
 
   static int printArm(int n){
