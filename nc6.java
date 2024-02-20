@@ -9,7 +9,7 @@ public class nc6{
     int original = num;
     //int ans = printSum(12,12);
       //System.out.println(ans);
-    int ans = printArmstrong(12,12);
+    int ans = printArmstrong(num);
     System.out.println(ans);
     
   }
