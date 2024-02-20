@@ -10,3 +10,5 @@ public class nc6{
     return num1 +num2;
   }
 }
+// this one is just the normal example of how function works in java
+// que of printing armstrong numbers
