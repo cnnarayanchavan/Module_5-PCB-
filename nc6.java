@@ -10,7 +10,7 @@ public class nc6{
   }
 
   static int printArm(int Num){
-    int original = number;
+    int original = Num;
     int sum = 0;
     while(Num<0){
     int ld = Num%10;
@@ -21,7 +21,7 @@ public class nc6{
       System.out.println("true");
     }
     else{
-      System.out.prinln("false");
+      System.out.println("false");
     }
     return sum ;
   }
