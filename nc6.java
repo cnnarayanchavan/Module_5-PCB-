@@ -18,19 +18,27 @@ public class nc6{
   // }
   // this one is just the normal example of how function works in java.
 // que of printing armstrong numbers
-  static int printArmstrong(Number){
+   public static int printArmstrong(Number){
     while(Number < 0){
+    
       LD = Number % 10;
       Number = Number / 10;
       sum = sum + (LD * LD * LD);
+      
     }
-    if(sum == Number){
+    if(sum == Number)
+    {
       System.out.println("True");
     }
-    else "false";
+    else
+    {
+      System.out.println("False");
+    }
+    return sum;
   }
-  return sum;
+
 }
+
 
 
 
