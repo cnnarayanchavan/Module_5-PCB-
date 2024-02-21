@@ -3,7 +3,7 @@ public class nc8{
     int number = 6;
     int count = 0;
     for(int i=0; i<=number; i++){
-      if(num%i==0){
+      if(number%i==0){
         count++;
       }
     }
