@@ -2,7 +2,7 @@ public class nc8{
   public static void main(String[]args){
     int number = 6;
     int count = 0;
-    for(int i=0; i<=number; i++){
+    for(int i=1; i<=number; i++){  //have to start form 1
       if(number%i==0){
         count++;
       }
