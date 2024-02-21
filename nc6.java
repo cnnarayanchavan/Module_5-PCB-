@@ -1,34 +1,35 @@
-//functions in js
+// WAP to find the number is weather armstrong or not
+public class nc6 {
 
-import java.util.Scanner;
 
-public class nc6{
-  public static void main(String[]args){
-    Scanner in = new Scanner(System.in);
-    int number = in. nextInt();
-    int ans = printArm(number);
+
+
+
+  public static void main(String[] args) {
+    int num = 333;
+    boolean ans = printArm(num);
     System.out.println(ans);
-    for(int i = 100; i<1000;i++){
-      if(printArm(i)){
-        System.out.println(printArm(i));
-      }
-    }
+    // for (int i = 100; i < 1000; i++) {
+    //   if (printArm(i)) {
+    //     System.out.print(i + " ");
+    //   }
+    // }
   }
 
-  static int printArm(int n){
-    int original = n;
+  static boolean printArm(int n) {
     int sum = 0;
-    while(n>0){
-    int ld = n%10;
-    n = n/10;
-    sum = sum + (ld*ld*ld);  
-    }  
-     if(n==original){
-       System.out.println("true");
-     }
-     else{
-       System.out.println("false");
-     }
-    return 1;
+    int original = n;
+    while (n>0) {
+      int ld=n%10;
+      n=n/10;
+      sum=sum+ld*ld*ld;
+    }
+    // if (sum == original) {
+    //   System.out.println("ture");
+    // }
+    // else{
+    //   System.out.println("False");
+    // }
+   return sum == original;
   }
 }
