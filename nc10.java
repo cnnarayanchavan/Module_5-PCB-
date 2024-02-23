@@ -15,5 +15,14 @@ public class nc10{
       arr[i] = sc.nextInt();  //and now here we have to print the arr now that num
     }
     System.out.println(java.util.Arrays.toString(arr));
+    //now lets see the linear searching technique ongoing
+    // print the element from array by user that user want to find on perticular index
+    System.out.print("Enter the number that you want to find in arrat: ")
+    int SearchingNum=sc.nextInt();
+    for(int i=0; i<=arr.length; i++){
+      if(arr[i]==SearchingNum){
+        System.out.println("Element found at index: " +i);
+      }
+    }
   }
 }
