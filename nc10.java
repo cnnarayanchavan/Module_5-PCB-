@@ -8,9 +8,10 @@ public class nc10{
     //2] we can initialise array first 
     //3] aslo initialise the array first 
     //as we are printing here so we have to only initialise it fisrt, then add the elements into it 
+    System.out.print("Ente the number: ");
     int Num = sc.nextInt();
     int arr[] = new int[Num];
-    for(int i=0; i<=Num; i++){
+    for(int i=0; i<Num; i++){
       arr[i] = sc.nextInt();  //and now here we have to print the arr now that num
     }
     System.out.println(java.util.Arrays.toString(arr));
