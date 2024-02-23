@@ -9,7 +9,7 @@ public class nc10{
     //3] aslo initialise the array first 
     //as we are printing here so we have to only initialise it fisrt, then add the elements into it 
     int Num = sc.nextInt();
-    int arr[] = new int[Num]
+    int arr[] = new int[Num];
     for(int i=0; i<=Num; i++){
       Num[i] = sc.nextInt();
     }
