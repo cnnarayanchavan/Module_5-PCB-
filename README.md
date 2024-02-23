@@ -21,8 +21,12 @@ Updating Readme by last one
 3. Q & A {WAP}
    - today we learnt about the functions in java and how it works internally
    - second the shadowing in functions, variable length in java.
-   - what exacttly the shadowing : simpelly the lower level value is overriding the higher level value
-   - 
+   - what exactly the shadowing : simpelly the lower level value is overriding the higher level value
+
+4. today's tasks
+   - Revise Selection Sort technique
+   - revise polymorphism in oops(java)
+   
    
    
 
