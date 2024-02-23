@@ -7,6 +7,6 @@ public class nc10{
     for(i=0; i<=Num; i++){
       Num[i] = sc.nextInt();
     }
-    System.out.println(Arrays.toString(Num));
+    System.out.println(java.util.Arrays.toString(Num));
   }
 }
