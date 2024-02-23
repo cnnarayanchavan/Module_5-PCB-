@@ -12,7 +12,7 @@ public class nc10{
     int Num = sc.nextInt();
     int arr[] = new int[Num];
     for(int i=0; i<Num; i++){
-      arr[i] = sc.nextInt();  //and now here we have to print the arr now that num
+      arr[i] = sc.nextInt();   //and now here we have to print the arr now that num
     }
     System.out.println(java.util.Arrays.toString(arr));
     //now lets see the linear searching technique ongoing
