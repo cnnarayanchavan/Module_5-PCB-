@@ -19,7 +19,7 @@ public class nc10{
     // print the element from array by user that user want to find on perticular index
     System.out.print("Enter the number that you want to find in arrat: ");
     int SearchingNum=sc.nextInt();
-    for(int i=0; i<=arr.length; i++){
+    for(int i=0; i<arr.length; i++){  //here faced the run time error becase of the false condition (array got out of bound)
       if(arr[i]==SearchingNum){
         System.out.println("Element found at index: " +i);
       }
