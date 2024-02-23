@@ -11,8 +11,8 @@ public class nc10{
     int Num = sc.nextInt();
     int arr[] = new int[Num];
     for(int i=0; i<=Num; i++){
-      Num[i] = sc.nextInt();
+      arr[i] = sc.nextInt();  //and now here we have to print the arr now that num
     }
-    System.out.println(java.util.Arrays.toString(Num));
+    System.out.println(java.util.Arrays.toString(arr));
   }
 }
