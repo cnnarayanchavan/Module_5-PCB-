@@ -3,7 +3,7 @@ public class nc11{
     //Father obj1 = new Father();
     //obj1.fathersPhone();
     //obj1.fathersPhone();
-    Son s1 = new Father();
+    //Son s1 = new Father();
     Son obj2 = new Son();
     obj2.fathersPhone();
   }
