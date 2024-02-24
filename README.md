@@ -26,7 +26,9 @@ Updating Readme by last one
 4. today's tasks
    - Revise Selection Sort technique
    - revise polymorphism in oops(java)
+   
 5. no commits today ig
+   must revised oops concepts.
    
    
    
