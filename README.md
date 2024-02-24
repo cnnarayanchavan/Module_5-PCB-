@@ -28,7 +28,7 @@ Updating Readme by last one
    - revise polymorphism in oops(java)
    
 5. no commits today ig
-   must revised oops concepts.
+   must revised oops concepts.(runtime polymorphism)
    
    
    
