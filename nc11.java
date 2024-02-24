@@ -1,8 +1,9 @@
 public class nc11{
   public static void main(String[]args){
-    Father obj1 = new Father();
+    //Father obj1 = new Father();
     //obj1.fathersPhone();
     //obj1.fathersPhone();
+    Son s1 = new Father();
     Son obj2 = new Son();
     obj2.fathersPhone();
   }
