@@ -27,8 +27,8 @@ Updating Readme by last one
    - Revise Selection Sort technique
    - revise polymorphism in oops(java)
    
-5. no commits today ig
-   must revised oops concepts.(runtime polymorphism)
+5. Revised OOPS method overloding. 
+   must revised oops concepts.(pillers of oops)
    
    
    
