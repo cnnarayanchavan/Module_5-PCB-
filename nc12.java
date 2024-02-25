@@ -1,22 +1,21 @@
 public class nc12{
   public static void main(String[]args){
-    Op o1 = new Op;
-    Op.operationOn("Narayana....!!");
+   Op objcet1 = new Op();
+   Op.operationsOn("Narayana");
     //System.out.println(result);
   }
 }
 class Op{
-  public static int operationsOn(int num1, int num2){
+   static int operationsOn(int num1, int num2){
     return num1 + num2;
   }
-  public static int operationsOn(double num1, int num2){
-    return num1 + num2;
+   static int operationsOn(double num1, double num2){
+    return (int) (num1 * num1);
 }
-  public static int operationsOn(int num1, int num2, int num3){
-    return num1 + num2;
+    static int operationsOn(int num1, int num2, int num3){
+    return num1 + num2 + num3;
 }
-  public static Sting operationsOn(String name){
-    int op = System.out.println("Hey" + name);
-    return op;
+     static void operationsOn(String name){
+     System.out.println("Hey"+ " " +name);
 }
 }
