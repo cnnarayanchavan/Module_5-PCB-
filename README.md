@@ -32,6 +32,9 @@ Updating Readme by last one
    
 6. from Monday 26feb i will be applying my coding skills into the new DSA project which include following
 
-- Basics Array   
+- Basics Array
+- Searching Algo
+- .binary Search
+- .Linear search 
    
 
