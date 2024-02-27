@@ -30,6 +30,8 @@ Updating Readme by last one
 5. Revised OOPS method overloding. 
    must revised oops concepts.(pillers of oops)
    
-6. from Monday 26feb i will be applying my coding skills into the new DSA project which include following   
+6. from Monday 26feb i will be applying my coding skills into the new DSA project which include following
+
+- Basics Array   
    
 
