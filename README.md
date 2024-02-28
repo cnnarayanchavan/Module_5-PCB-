@@ -37,5 +37,6 @@ Updating Readme by last one
 - Sorting Algo.
 - String Bufffer.
 - String Builder.
+- Integration of other pipelines.
    
 
