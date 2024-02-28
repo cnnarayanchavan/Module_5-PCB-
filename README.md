@@ -36,6 +36,5 @@ Updating Readme by last one
 - Searching Algo.
 - Sorting Algo.
 - Integration of other pipelines.
-- 
    
 
