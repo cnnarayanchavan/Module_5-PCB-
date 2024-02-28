@@ -35,8 +35,7 @@ Updating Readme by last one
 - Basics Array.
 - Searching Algo.
 - Sorting Algo.
-- String Bufffer.
-- String Builder.
 - Integration of other pipelines.
+- 
    
 
