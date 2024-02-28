@@ -36,5 +36,6 @@ Updating Readme by last one
 - Searching Algo.
 - Sorting Algo.
 - String Bufffer.
+- String Builder.
    
 
