@@ -34,5 +34,6 @@ Updating Readme by last one
 
 - Basics Array.
 - Searching Algo.
+- Sorting Algo.
    
 
